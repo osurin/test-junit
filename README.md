@@ -9,16 +9,6 @@ Junit/git:
 @AfterClass
 Assert
 
-Mockito:
---------
-@Mock
-@InjectMocks
-
-
-@SpringBootTest
-@RunWith(SpringRunner.class)
-@ActiveProfiles("test)
-
 
 
 
